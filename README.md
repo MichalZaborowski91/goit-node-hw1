@@ -8,4 +8,4 @@ Get contact by id: https://monosnap.com/file/dKYzjU5DDpvHbCONNpWIG2bTzysj3w
 
 Add contact: https://monosnap.com/file/ihLYSQ6bnWd7dkIsUzobd5h5gf5oIm
 
-Delete contact: https://monosnap.com/file/r4rxTUjlWYoFZtBXhMMxUEt288Z4xu
+Delete contact: https://monosnap.com/file/LHYAM0Qc2M338LA003NWrXdQcmkzY9

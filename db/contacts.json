@@ -1,11 +1,5 @@
 [
   {
-    "id": "qdggE76Jtbfd9eWJHrssH",
-    "name": "Chaim Lewis",
-    "email": "dui.in@egetlacus.ca",
-    "phone": "(294) 840-6685"
-  },
-  {
     "id": "drsAJ4SHPYqZeG-83QTVW",
     "name": "Kennedy Lane",
     "email": "mattis.Cras@nonenimMauris.net",
@@ -30,12 +24,6 @@
     "phone": "(186) 568-3720"
   },
   {
-    "id": "Z5sbDlS7pCzNsnAHLtDJd",
-    "name": "Reuben Henry",
-    "email": "pharetra.ut@dictum.co.uk",
-    "phone": "(715) 598-5792"
-  },
-  {
     "id": "C9sjBfCo4UJCWjzBnOtxl",
     "name": "Simon Morton",
     "email": "dui.Fusce.diam@Donec.com",
@@ -57,11 +45,6 @@
   {
     "name": "Mango",
     "email": "mango@gmail.com",
-    "phone": "322-22-22"
-  },
-  {
-    "name": "Michal",
-    "email": "mkzabor@gmail.com",
     "phone": "322-22-22"
   }
 ]

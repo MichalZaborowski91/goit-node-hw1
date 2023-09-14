@@ -39,7 +39,7 @@ function removeContact(contactId) {
       return;
     }
     const contacts = JSON.parse(data);
-    const index = contacts.find((contact) => contact.id === contactId);
+    const index = contacts.findIndex((contact) => contact.id === contactId);
 
     if (index === -1) {
       console.error(`Contact under id: ${contactId} doesn't exist.`);
